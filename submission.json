@@ -1,0 +1,7 @@
+{
+"prompt": "A powerful emotional visual metaphor showing that air pollution kills more people than smoking. Scene: A massive cigarette constructed from industrial factory chimneys, burning at the tip. Thick smoke rises from the chimneys and gradually transforms into human skulls in the sky. Below, small human figures unknowingly breathe in the smoke, surrounded by a dark polluted environment. Symbolism: Factory chimneys represent air pollution, cigarette represents smoking, skull-shaped smoke represents death affecting humans. No charts, no graphs, no labels, no text. Style: cinematic, dramatic lighting, high contrast, ultra-realistic, magazine cover style, emotionally intense atmosphere. Composition: single frame, strong focal point on the cigarette-shaped factories, depth and scale showing humans as small and vulnerable. Avoid infographic style, avoid generic climate visuals, avoid charts or data plots.",
+"model": "DALL·E 3",
+"dataset_name": "WHO Air Pollution Mortality Data",
+"dataset_url": "https://www.who.int/data/gho/data/themes/air-pollution",
+"insight": "Air pollution kills more people annually than smoking"
+}
